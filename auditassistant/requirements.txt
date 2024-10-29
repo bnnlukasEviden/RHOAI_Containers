@@ -6,7 +6,7 @@ numpy==1.26.4
 nltk==3.8.1
 sentence-transformers==3.0.1
 openpyxl==3.1.2
-scikit-learn==1.5.1
+scikit-learn==1.5.2
 Flask==3.0.3
 Flask-RESTful==0.3.10
 wheel
