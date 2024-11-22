@@ -1,6 +1,6 @@
 FROM quay.io/opendatahub-contrib/workbench-images:cuda-runtime-pytorch-c9s-py311_2023c_latest
 
-RUN pip install pip==22.3.1 setuptools==65.3.0
+RUN pip install pip==22.3.1 setuptools==65.3.0 numpy
 
 USER 1001
 
